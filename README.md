@@ -1,6 +1,10 @@
 # Vendor Performance Analysis
 This project analyzes vendor performance to optimize inventory management, pricing strategies, and vendor relationships in a retail/wholesale context. Using purchase, sales, and inventory data, it identifies underperforming brands, evaluates vendor contributions, and provides data-driven recommendations to enhance profitability. The project leverages Python, SQL, and SQLite for data processing and analysis.
 
+# BI Dashboard
+<img width="1225" height="732" alt="image" src="https://github.com/user-attachments/assets/21342799-9a5c-4e5c-b8ca-41834adeef0a" />
+
+
 # Project Overview
 The goal was to address key business questions:
 - Identify underperforming brands for promotional or pricing adjustments.
